@@ -6,7 +6,7 @@ More about bhadoo Google Personal/Shared Drive Index : https://gitlab.com/Parvee
 
 ## TODO
 
--   [ ] Convert into class, so can use in other program, project, etc.
+-   [x] Convert into class, so can use in other program, project, etc.
 
 ## Screenshots
 
